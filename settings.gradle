@@ -1,0 +1,6 @@
+rootProject.name = 'tower-spring-sample'
+
+include 'todo-domain'
+include 'todo-query'
+include 'todo-service'
+include 'todo-controller'
